@@ -1,0 +1,15 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+.horizontal-menu {
+  display: flex;
+  gap: 30px;
+  /* text-decoration: none; */
+  background-color: rgb(224, 155, 51, 0.9);
+  padding: 20px 20px ;
+  /* width: 10vw; */
+}
